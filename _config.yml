@@ -1,6 +1,6 @@
 name: GetSmily on the Grid
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.6969713382422924
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.9230016230139881
